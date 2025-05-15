@@ -1,4 +1,4 @@
-<h1>Bikes Map</h1>
+<h1>Bikes Stations and Routes Map</h1>
 
 <script>
     import mapboxgl from "mapbox-gl";
